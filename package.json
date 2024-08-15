@@ -1,13 +1,13 @@
 {
   "name": "red-badger-robot",
   "version": "1.0.0",
-  "description": "Tech test of robot for red badger",
+  "description": "Tech test for red badger",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "start": "npx ts-node ./src/main.ts"
   },
-  "author": "",
+  "author": "Swetha",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.25.2",
